@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906043790450",
+    "project_id": "login-screen-febb5",
+    "storage_bucket": "login-screen-febb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906043790450:android:6f84b68efd7de7423cdeeb",
+        "android_client_info": {
+          "package_name": "com.example.loginscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWwMj2pCt5dypzImbZ7efdjkv_0-MoA60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
